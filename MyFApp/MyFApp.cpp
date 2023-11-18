@@ -2,9 +2,11 @@
 //
 
 #include <iostream>
+#include <vector>
 
 int main()
 {
+    std::vector<int> t;
     std::cout << "Hello World!\n";
 }
 
